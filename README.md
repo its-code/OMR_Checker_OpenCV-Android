@@ -1,0 +1,2 @@
+# OMR_Checker_OpenCV-Android
+Idea is to develop an application that can check MCQS at run time, you just have to bring question paper in front of camera application to stimulate MCQS checking using QR code to detect the Student Name &amp; Registration No. and result will be displayed on top of camera output. Pre-Define MCQs answer sheet will be used for the following:- 1) The application will mark the quiz. 2) The application will save the marks. 3) The application will upload the marks.
